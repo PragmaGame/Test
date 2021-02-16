@@ -2,3 +2,5 @@
 *.class
 *.xml
 *.iws
+*.iml
+.idea
