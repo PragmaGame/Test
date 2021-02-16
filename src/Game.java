@@ -5,5 +5,4 @@ public class Game {
     {
         System.out.print("hello");
     }
-
 }
