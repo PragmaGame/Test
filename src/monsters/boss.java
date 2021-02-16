@@ -1,4 +1,9 @@
 package monsters;
 
-public class boss {
+public class boss
+{
+    private void addBoss()
+    {
+
+    }
 }
