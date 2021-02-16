@@ -5,4 +5,9 @@ public class Game {
     {
         System.out.print("hello");
     }
+
+    private void addAlies()
+    {
+
+    }
 }
