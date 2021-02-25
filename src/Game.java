@@ -9,7 +9,7 @@ public class Game {
 
     private void addAlies()
     {
-
+        System.out.print("add alies");
     }
 
     private void addBoss()
